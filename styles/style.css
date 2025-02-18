@@ -13,7 +13,7 @@ body {
   margin: 0 auto;
 }
 
-.header__title {
+.header-title {
   font-size: 116px;
   font-weight: 900;
   text-transform: uppercase;
@@ -26,11 +26,11 @@ body {
   letter-spacing: 4px;
 }
 
-.header__title::after {
+.header-title::after {
   content: '*';
 }
 
-.header__title:hover::before {
+.header-title:hover::before {
   content: 'На самом деле нет.\AВажнее &mdash; научиться ошибаться.';
   white-space: pre;
   position: absolute;
@@ -50,7 +50,7 @@ body {
   box-shadow: 1px 14px 0 #000;
 }
 
-.content__video {
+.bg-video {
   display: block;
   width: 100%;
   height: 900px;
