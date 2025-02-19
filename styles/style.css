@@ -31,14 +31,13 @@ body::before {
   font-weight: 900;
   text-transform: uppercase;
   text-align: center;
-  justify-self: center;
+  align-self: center;
   padding-top: 60px;
   max-width: 739px;
   width: 100%;
   letter-spacing: 4px;
   cursor: default;
   z-index: 2;
-  align-self: center;
 }
 
 /* второй псевдоэлемент - звездочка */
