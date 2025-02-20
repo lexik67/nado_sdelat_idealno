@@ -54,7 +54,7 @@ body::before {
   content: 'На самом деле нет.\AВажнее &mdash; научиться ошибаться.';
   white-space: pre;
   position: absolute;
-  left: 834px;
+  right: 20px;
   top: 180px;
   z-index: 3;
   font-size: 35px;
